@@ -19,6 +19,9 @@ interested in data science and software engineering. I also mastered c++ and jav
 <img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
 <img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <br />
+
+[![Instagram](https://img.shields.io/badge/Instagram-@zaktabrann-blue?logo=instagram)](https://www.instagram.com/zaktabrann/profilecard/?igsh=MWVhdGpwempvMjByOA==)
+
 <!--
 **ZakyTabrani/ZakyTabrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
