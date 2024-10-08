@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋, I'm Jack
+
+I am a student who is enthusiastic about programming as a computer science student at Pertamina University who is
+interested in data science and software engineering. I also mastered c++ and java programming languages.
 
 <!--
 **ZakyTabrani/ZakyTabrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
